@@ -2,6 +2,7 @@
 //need to make directories before
 //doesn't make directories on its own
 //repository for other .ext is required as well
+//preliminary--- need to be a cli independent of index.js and so on...
 const path = require('path')
 const fs = require('fs')
 //console.log(__dirname)
